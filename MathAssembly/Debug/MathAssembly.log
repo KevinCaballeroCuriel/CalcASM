@@ -1,0 +1,23 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathAssembly.cpp
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathAssembly\MathAssembly.cpp(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathAssembly\MathAssembly.cpp(11,1): warning C4273: 'Add': vinculación de DLL incoherente
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathAssembly\MathAssembly.h(9,32): message : vea la definición anterior de 'Add'
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathAssembly\MathAssembly.cpp(21,1): warning C4273: 'Power': vinculación de DLL incoherente
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathAssembly\MathAssembly.h(11,32): message : vea la definición anterior de 'Power'
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathAssembly\MathAssembly.cpp(31,21): warning C4273: 'Absolute': vinculación de DLL incoherente
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathAssembly\MathAssembly.h(19,32): message : vea la definición anterior de 'Absolute'
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathAssembly\MathAssembly.cpp(40,29): warning C4273: 'Substract': vinculación de DLL incoherente
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathAssembly\MathAssembly.h(13,32): message : vea la definición anterior de 'Substract'
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathAssembly\MathAssembly.cpp(47,28): warning C4273: 'Multiply': vinculación de DLL incoherente
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathAssembly\MathAssembly.h(17,32): message : vea la definición anterior de 'Multiply'
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathAssembly\MathAssembly.cpp(54,26): warning C4273: 'Divide': vinculación de DLL incoherente
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathAssembly\MathAssembly.h(15,32): message : vea la definición anterior de 'Divide'
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathAssembly\MathAssembly.cpp(62,17): warning C4273: 'Sign': vinculación de DLL incoherente
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathAssembly\MathAssembly.h(23,32): message : vea la definición anterior de 'Sign'
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathAssembly\MathAssembly.cpp(75,22): warning C4273: 'Factorial': vinculación de DLL incoherente
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathAssembly\MathAssembly.h(21,32): message : vea la definición anterior de 'Factorial'
+  Generando código...
+     Creando biblioteca C:\Users\Gabo\source\repos\MathematicaImplementacion\Debug\MathAssembly.lib y objeto C:\Users\Gabo\source\repos\MathematicaImplementacion\Debug\MathAssembly.exp
+  MathAssembly.vcxproj -> C:\Users\Gabo\source\repos\MathematicaImplementacion\Debug\MathAssembly.dll

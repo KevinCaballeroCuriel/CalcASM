@@ -1,0 +1,18 @@
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathAssemblyInterface.Calculator.resources
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathAssemblyInterface.csproj.GenerateResource.cache
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\bin\Debug\MathAssemblyInterface.exe.config
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\bin\Debug\MathAssemblyInterface.exe
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\bin\Debug\MathAssemblyInterface.pdb
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathAssemblyInterface.Properties.Resources.resources
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathAssemblyInterface.exe
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathAssemblyInterface.pdb
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\CalculadoraEnsamblador\MathematicaImplementacion\bin\Debug\MathAssemblyInterface.exe.config
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\CalculadoraEnsamblador\MathematicaImplementacion\bin\Debug\MathAssemblyInterface.exe
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\CalculadoraEnsamblador\MathematicaImplementacion\bin\Debug\MathAssemblyInterface.pdb
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\CalculadoraEnsamblador\MathematicaImplementacion\obj\Debug\MathAssemblyInterface.csprojAssemblyReference.cache
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\CalculadoraEnsamblador\MathematicaImplementacion\obj\Debug\MathAssemblyInterface.Calculator.resources
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\CalculadoraEnsamblador\MathematicaImplementacion\obj\Debug\MathAssemblyInterface.Properties.Resources.resources
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\CalculadoraEnsamblador\MathematicaImplementacion\obj\Debug\MathAssemblyInterface.csproj.GenerateResource.cache
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\CalculadoraEnsamblador\MathematicaImplementacion\obj\Debug\MathAssemblyInterface.csproj.CoreCompileInputs.cache
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\CalculadoraEnsamblador\MathematicaImplementacion\obj\Debug\MathAssemblyInterface.exe
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\CalculadoraEnsamblador\MathematicaImplementacion\obj\Debug\MathAssemblyInterface.pdb

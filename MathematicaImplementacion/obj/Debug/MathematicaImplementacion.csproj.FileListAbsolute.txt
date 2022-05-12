@@ -1,0 +1,22 @@
+c:\users\gabo banda\source\repos\MathematicaImplementacion\MathematicaImplementacion\bin\Debug\MathematicaImplementacion.exe.config
+c:\users\gabo banda\source\repos\MathematicaImplementacion\MathematicaImplementacion\bin\Debug\MathematicaImplementacion.exe
+c:\users\gabo banda\source\repos\MathematicaImplementacion\MathematicaImplementacion\bin\Debug\MathematicaImplementacion.pdb
+c:\users\gabo banda\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathematicaImplementacion.csprojResolveAssemblyReference.cache
+c:\users\gabo banda\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathematicaImplementacion.Properties.Resources.resources
+c:\users\gabo banda\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathematicaImplementacion.csproj.GenerateResource.Cache
+c:\users\gabo banda\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathematicaImplementacion.csproj.CoreCompileInputs.cache
+c:\users\gabo banda\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathematicaImplementacion.exe
+c:\users\gabo banda\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathematicaImplementacion.pdb
+c:\users\gabo banda\source\repos\MathematicaImplementacion\MathematicaImplementacion\bin\Debug\Mathematica.dll
+c:\users\gabo banda\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathematicaImplementacion.MathematicaForm.resources
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\bin\Debug\MathematicaImplementacion.exe.config
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\bin\Debug\MathematicaImplementacion.exe
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\bin\Debug\MathematicaImplementacion.pdb
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\bin\Debug\Mathematica.dll
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathematicaImplementacion.csprojAssemblyReference.cache
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathematicaImplementacion.MathematicaForm.resources
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathematicaImplementacion.Properties.Resources.resources
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathematicaImplementacion.csproj.GenerateResource.cache
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathematicaImplementacion.csproj.CopyComplete
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathematicaImplementacion.exe
+C:\Users\Gabo\source\repos\MathematicaImplementacion\MathematicaImplementacion\obj\Debug\MathematicaImplementacion.pdb
